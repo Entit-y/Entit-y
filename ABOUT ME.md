@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web application hacking for bug bounties
 - 💞️ I’m looking to collaborate on any bug bounty programs
 - 📫 You can find me on twitter(details on profile) and discord @entit_y
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: I'm just winging it lol
 
 <!---
